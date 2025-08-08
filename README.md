@@ -29,6 +29,4 @@ This project utilizes the following SQL features:
 1.  **Review the SQL Code:** Examine the `customer.sql` file to understand the various SQL queries and their application.
 2.  **Analyze the Output:** Refer to the `sample output.pdf` file to see the results and how the different SQL operations affect the data.
 
-## Contributing
 
-This project is for demonstration purposes. No contributions are expected.
